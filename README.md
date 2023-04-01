@@ -2,8 +2,8 @@
 
 |        | Monday         | Tuesday        | Wednesday      | Thursday       | Friday         |
 | ------ | --------------| -------------- | -------------- | -------------- | -------------- |
-| 9 am   | ![#f0ad4e](Yoga) | ![#5cb85c](Running) | ![#5bc0de](Cycling) | ![#5cb85c](Running) | ![#f0ad4e](Yoga) |
-| 11 am  | ![#d9534f](Team meeting) | ![#428bca](Project work) | ![#d9534f](Team meeting) | ![#428bca](Project work) | ![#d9534f](Team meeting) |
-| 1 pm   | ![#5bc0de](Lunch) | ![#5bc0de](Lunch) | ![#5bc0de](Lunch) | ![#5bc0de](Lunch) | ![#5bc0de](Lunch) |
-| 3 pm   | ![#428bca](Coding) | ![#428bca](Coding) | ![#428bca](Coding) | ![#428bca](Coding) | ![#428bca](Coding) |
-| 5 pm   | ![#d9534f](Break) | ![#d9534f](Break) | ![#d9534f](Break) | ![#d9534f](Break) | ![#d9534f](Break) |
+| 9 am   | <span style="color:#f0ad4e">Yoga</span> | <span style="color:#5cb85c">Running</span> | <span style="color:#5bc0de">Cycling</span> | <span style="color:#5cb85c">Running</span> | <span style="color:#f0ad4e">Yoga</span> |
+| 11 am  | <span style="color:#d9534f">Team meeting</span> | <span style="color:#428bca">Project work</span> | <span style="color:#d9534f">Team meeting</span> | <span style="color:#428bca">Project work</span> | <span style="color:#d9534f">Team meeting</span> |
+| 1 pm   | <span style="color:#5bc0de">Lunch</span> | <span style="color:#5bc0de">Lunch</span> | <span style="color:#5bc0de">Lunch</span> | <span style="color:#5bc0de">Lunch</span> | <span style="color:#5bc0de">Lunch</span> |
+| 3 pm   | <span style="color:#428bca">Coding</span> | <span style="color:#428bca">Coding</span> | <span style="color:#428bca">Coding</span> | <span style="color:#428bca">Coding</span> | <span style="color:#428bca">Coding</span> |
+| 5 pm   | <span style="color:#d9534f">Break</span> | <span style="color:#d9534f">Break</span> | <span style="color:#d9534f">Break</span> | <span style="color:#d9534f">Break</span> | <span style="color:#d9534f">Break</span> |
